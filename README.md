@@ -1,21 +1,19 @@
 <h1 align="center">Hi 👋, I'm Sonu Kumar Suman</h1>
-<h3 align="center">A passionate aspiring programmer from India</h3>
+<h3 align="center">A passionate aspiring programmer from India!</h3>
+
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avinashwalton&label=Profile%20views&color=0e75b6&style=flat" alt="avinashwalton" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avinashwalton" alt="avinashwalton" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/avinashwalton" target="blank"><img src="https://img.shields.io/twitter/follow/avinashwalton?logo=twitter&style=for-the-badge" alt="avinashwalton" /></a> </p>
 
 - 🌱 I’m currently learning **C, C++, DSA and STL**
 
+- 🏫 I'm currently studying **BCA**
+
 - 📫 How to reach me **connectwithsksuman@gmail.com**
 
-- ⚡ Fun fact **I think i am so much funny**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- ⚡ Fun fact **I am funny as usual.😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
