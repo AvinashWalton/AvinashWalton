@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **C, C++, DSA and STL**
 
-- 🏫 I'm currently studying **BCA**
+- 🏫 I'm currently pursuing **BCA** at **Patliputra University, Patna**
   
 - 😎 I'm interested in **Cyber Security**
 
