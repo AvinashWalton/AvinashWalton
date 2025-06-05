@@ -1,9 +1,11 @@
-<h4 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">(धर्मो रक्षति रक्षितः)</h4>
+<h4 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 600;">
+  (धर्मो रक्षति रक्षितः)
+</h4>
 <h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=32&duration=3500&pause=700&color=19692c&center=true&vCenter=true&width=650&lines=Hi,+I'm+Sonu+Kumar+Suman" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3500&pause=700&color=00C853&center=true&vCenter=true&width=700&lines=Hi,+I'm+Sonu+Kumar+Suman" alt="Typing Animation" />
 </h1>
 <h3 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=25&duration=3500&pause=700&color=800020&center=true&vCenter=true&width=650&lines={+A+passionate+programmer+from+India!+}" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=25&duration=3500&pause=700&color=800020&center=true&vCenter=true&width=650&lines=%7B+A+passionate+programmer+from+India!+%7D" alt="Typing Animation" />
 </h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" style="border-radius: 10px; margin-left: 15px; margin-bottom: 20px;">
@@ -18,6 +20,7 @@
   </a>
 </p>
 
+<h3 align="left" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin-top: 40px;">👋 About Me:</h3>
 <ul style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 16px; line-height: 1.6;">
   <li>🌱 I’m currently learning <strong>C, C++, DSA, and STL</strong></li>
   <li>🏫 I'm pursuing <strong>BCA</strong> at <strong>Patliputra University, Patna</strong></li>
@@ -55,7 +58,7 @@
 
 <!-- 📚 Most Used Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinashwalton&layout=compact&title_color=E63946&text_color=19692c" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinashwalton&layout=compact&title_color=E63946&text_color=00C853" alt="Top Languages" />
 </p>
 
 <!-- 🔥 Contribution Graph 
@@ -76,4 +79,29 @@
 <!-- 🏆 GitHub Achievements -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=avinashwalton&no-frame=true&title=Stars,Commits,Followers,Repositories,PullRequest&margin-w=10&margin-h=15" alt="Trophies" />
+</p>
+
+<h3 align="left">🏅 Achievements:</h3>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-green?style=for-the-badge&logo=github" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Certified-Programmer-yellow?style=for-the-badge&logo=certificate" />
+</p>
+
+<h3 align="center">📜 Bhagavad Gita - Chapter 2, Verse 47</h3>
+
+<p align="center">
+  <em>
+    "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन ।<br>
+    मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि ॥"
+  </em>
+</p>
+
+<p align="center">
+  <em>
+    “You have the right to perform your prescribed duties,<br>
+    but you are not entitled to the fruits of your actions.<br>
+    Never consider yourself the cause of the results of your activities,<br>
+    and never be attached to not doing your duty.”
+  </em>
 </p>
