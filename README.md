@@ -22,9 +22,9 @@
 
 <h3 align="left" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin-top: 40px;">👋 About Me:</h3>
 <ul style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 16px; line-height: 1.6;">
-  <li>🌱 I’m currently learning <strong>C, C++, DSA, and STL</strong></li>
+  <li>🌱 I’m currently learning <strong>Data Analytics</strong></li>
   <li>🏫 I'm pursuing <strong>BCA</strong> at <strong>Patliputra University, Patna</strong></li>
-  <li>😎 Interested in <strong>Cyber Security</strong></li>
+  <li>😎 Interested in <strong>Production & Operation Management</strong></li>
   <li>📫 Reach me at <strong><a href="mailto:connectwithsksuman@gmail.com">connectwithsksuman@gmail.com</a></strong></li>
   <li>⚡ Fun fact: <strong>I am funny as usual 😂</strong></li>
 </ul>
