@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3500&pause=700&color=00C853&center=true&vCenter=true&width=700&lines=Hi,+I'm+Sonu+Kumar+Suman" alt="Typing Animation" />
 </h1>
 <h3 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=25&duration=3500&pause=700&color=800020&center=true&vCenter=true&width=650&lines=%7B+A+passionate+programmer+from+India!+%7D" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=25&duration=3500&pause=700&color=800020&center=true&vCenter=true&width=650&lines=%7B+A+curious+learner+from+India!+%7D" alt="Typing Animation" />
 </h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" style="border-radius: 10px; margin-left: 15px; margin-bottom: 20px;">
