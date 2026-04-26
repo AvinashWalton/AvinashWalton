@@ -6,7 +6,7 @@
 </p>
 
 <!-- Animated Name Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=36&duration=3000&pause=800&color=00C853&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Sonu+Kumar+Suman;BCA+Student+%40+Patliputra+University;Data+Analytics+Enthusiast;Curious+Learner+from+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=36&duration=3000&pause=800&color=00C853&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Sonu+Kumar+Suman;BCA+Graduate+%40+Patliputra+University;Data+Analytics+Enthusiast;Curious+Learner+from+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
 
 <br/>
 
@@ -42,7 +42,7 @@ motto      : धर्मो रक्षति रक्षितः
 ```
 
 - 🌱 Currently deep-diving into **Data Analytics**
-- 🏫 Pursuing **BCA** at **Patliputra University, Patna**
+- 🏫 **BCA** graduate from **Patliputra University, Patna**
 - 😎 Passionate about **Production & Operation Management**
 - 📫 Reach me at **[connectwithsksuman@gmail.com](mailto:connectwithsksuman@gmail.com)**
 - ⚡ Fun fact: **I am funny as usual 😂**
